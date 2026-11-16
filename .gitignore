@@ -13,3 +13,6 @@ firmware/include/secrets.h
 __pycache__/
 *.pyc
 .env
+
+#plan 
+PLAN.md
