@@ -16,3 +16,6 @@ __pycache__/
 
 #plan 
 PLAN.md
+
+#Build
+build/
